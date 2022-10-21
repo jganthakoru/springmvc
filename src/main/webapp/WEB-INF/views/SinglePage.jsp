@@ -130,7 +130,7 @@
 
 </head>
 <body>
-	<center><h1>Student CRUD Using AJAX </h1></center>
+	<center><h1>Student CRUD Using AJAX Call </h1></center>
 
 	<!--  <button id="gettime">Get Time</button>
 	
